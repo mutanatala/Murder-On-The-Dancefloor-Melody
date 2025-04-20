@@ -29,3 +29,4 @@ def play_melody():
 if __name__ == "__main__":
     print("🎶 Playing a simple melody inspired by 'Murder on the Dancefloor'...")
     play_melody()
+куцф
